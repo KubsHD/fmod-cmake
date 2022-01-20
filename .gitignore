@@ -1,0 +1,6 @@
+win/*
+mac/*
+
+!win/put_lib_here
+!mac/put_lib_here
+.DS_Store
